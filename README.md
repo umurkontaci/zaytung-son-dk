@@ -1,5 +1,11 @@
 I like Zaytung, but I don't like to click through every item in "Son Dakika" pages. So I wrote this: it allows you to read "Son Dakika" feed from your terminal, like real developers would.
 
+Installation
+-
+- Install nodejs if you haven't already. See: http://nodejs.org
+- Run `npm install` in project directory.
+- You are all set
+
 Usage is simple, just run:
 
     node app.js
